@@ -1,0 +1,5 @@
+Este é um jogo básico de perguntas. Quando lhe for feita
+uma pergunta, lhe serão apresentadas algumas respostas das
+quais você deverá escolher uma de acordo com suas letras A,
+B, C ou D. Faça sua escolha e pressione ENTER. Certifique-se
+de digitar a letra da resposta em LETRA MAIÚSCULA!
